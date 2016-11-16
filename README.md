@@ -7,3 +7,6 @@ Just place `rename-files.sh` inside the directory whose files need to be renamed
 - `chmod 0777 rename-files.sh`
 
 - `./rename-files.sh`
+
+
+References and thanks to: http://stackoverflow.com/a/25578277/212692
